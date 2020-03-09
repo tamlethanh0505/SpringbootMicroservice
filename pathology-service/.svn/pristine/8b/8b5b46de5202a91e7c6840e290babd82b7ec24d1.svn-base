@@ -1,0 +1,2 @@
+server.port=7083
+spring.application.name=pathology-service
