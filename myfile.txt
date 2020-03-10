@@ -1,8 +1,5 @@
 This file is created by branch master 
 Add: Add change with Dev3 Branch 
 Commit: add commit with Dev3
-<<<<<<< HEAD
 Pull: add pull with Dev1
-=======
 Pull: Add full with Dev3
->>>>>>> Dev3
